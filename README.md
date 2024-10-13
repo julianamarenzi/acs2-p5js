@@ -1,6 +1,6 @@
-# Actividad de Artes Multimediales I
+# Artes Multimediales I - UNA - 2024
 
-## Segunda Actividad de Consolidación de Saberes (ACS-2)
+### Segunda Actividad de Consolidación de Saberes (ACS-2)
 
 Trabajo de mímesis basado en Theo Van Doesburg con interacción del mouse.
 
